@@ -35,7 +35,7 @@
 # remove 대신 discard
 # 체크일때 정규식
 
-#정답
+#정답답
 import sys
 
 s = set()
